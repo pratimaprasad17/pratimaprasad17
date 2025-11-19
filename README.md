@@ -37,7 +37,7 @@ Ask me about<br>SAP BI, Power BI (PL-300 certified), Alteryx, Apricot, data stor
 
 # <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25px"> Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=black&color=f7df1e) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -45,7 +45,7 @@ Ask me about<br>SAP BI, Power BI (PL-300 certified), Alteryx, Apricot, data stor
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=4169E1) 
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
@@ -65,14 +65,31 @@ Ask me about<br>SAP BI, Power BI (PL-300 certified), Alteryx, Apricot, data stor
   <div id="user-content-toc">
     <ul align="left" style="list-style: none;">
       <summary>
-        <h2>📊 GitHub Stats</h2>
+        <h2>🔥 Streak Stats</h2>
       </summary>
     </ul>
   </div>
+
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Pratima's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=pratimaprasad17&theme=monokai-metallian&hide_border=true&short_numbers=true"/>  
+<br>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a>
   
-  ![](https://github-readme-stats.vercel.app/api?username=pratimaprasad17&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-  ![](https://nirzak-streak-stats.vercel.app/?user=pratimaprasad17&theme=dark&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratimaprasad17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <div id="user-content-toc">
+    <ul align="left" style="list-style: none;">
+      <summary>
+        <h2>📊 GitHub Profile Stats</h2>
+      </summary>
+    </ul>
+  </div>
+
+  <img alt="Pratima's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=pratimaprasad17&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+
+  <img alt="Pratima's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratimaprasad17&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+  
+  <br>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <br>
+  
+  [![Pratima's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pratimaprasad17)](https://github.com/pratimaprasad17/github-readme-activity-graph&theme=dark)
   
   <div id="user-content-toc">
     <ul align="left" style="list-style: none;">
