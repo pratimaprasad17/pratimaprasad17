@@ -41,47 +41,47 @@ Ask me about<br>SAP BI, Power BI (PL-300 certified), Alteryx, Apricot, data stor
 <details>
   <summary><h1>:computer: Some of my Github Public Stats<h1></summary>
 
-<div id="user-content-toc">
-  <ul align="left" style="list-style: none;">
-    <summary>
-      <h2>📊 GitHub Stats</h2>
-    </summary>
-  </ul>
-</div>
-
-![](https://github-readme-stats.vercel.app/api?username=pratimaprasad17&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=pratimaprasad17&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratimaprasad17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<div id="user-content-toc">
-  <ul align="left" style="list-style: none;">
-    <summary>
-      <h2>🏆 GitHub Trophies</h2>
-    </summary>
-  </ul>
-</div>
-
-![](https://github-profile-trophy.vercel.app/?username=pratimaprasad17&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-<div id="user-content-toc">
-  <ul align="left" style="list-style: none;">
-    <summary>
-      <h2>🔝 Top Contributed Repo</h2>
-    </summary>
-  </ul>
-</div>
-
-![](https://github-contributor-stats.vercel.app/api?username=pratimaprasad17&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<div id="user-content-toc">
-  <ul align="left" style="list-style: none;">
-    <summary>
-      <h2>✍️ Random Dev Quote</h2>
-    </summary>
-  </ul>
-</div>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  <div id="user-content-toc">
+    <ul align="left" style="list-style: none;">
+      <summary>
+        <h2>📊 GitHub Stats</h2>
+      </summary>
+    </ul>
+  </div>
+  
+  ![](https://github-readme-stats.vercel.app/api?username=pratimaprasad17&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  ![](https://nirzak-streak-stats.vercel.app/?user=pratimaprasad17&theme=dark&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratimaprasad17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  
+  <div id="user-content-toc">
+    <ul align="left" style="list-style: none;">
+      <summary>
+        <h2>🏆 GitHub Trophies</h2>
+      </summary>
+    </ul>
+  </div>
+  
+  ![](https://github-profile-trophy.vercel.app/?username=pratimaprasad17&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+  
+  <div id="user-content-toc">
+    <ul align="left" style="list-style: none;">
+      <summary>
+        <h2>🔝 Top Contributed Repo</h2>
+      </summary>
+    </ul>
+  </div>
+  
+  ![](https://github-contributor-stats.vercel.app/api?username=pratimaprasad17&limit=5&theme=dark&combine_all_yearly_contributions=true)
+  
+  <div id="user-content-toc">
+    <ul align="left" style="list-style: none;">
+      <summary>
+        <h2>✍️ Random Dev Quote</h2>
+      </summary>
+    </ul>
+  </div>
+  
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </details>
 
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" height="40px">
