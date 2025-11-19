@@ -6,11 +6,27 @@
 
 <div id="user-content-toc">
   <ul align="center" style="list-style: none;">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+    <summary>
+      <h1 align="center" style="list-style: none;">
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.herokuapp.com/?center=true&size=30&color=ffffff&lines=Hello%2C+There+!!;This+is+Pratima+Prasad..;Nice+to+meet+you+!;">
+        </a>
+      </h1>
+    </summary>
+  </ul>
+</div>
+
+<!--
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
     <summary>
       <h1>Hi there!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Pratima</h1>
     </summary>
   </ul>
 </div>
+-->
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"> -->
 
