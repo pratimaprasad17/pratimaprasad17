@@ -123,6 +123,27 @@ Ask me about<br>SAP BI, Power BI (PL-300 certified), Alteryx, Apricot, data stor
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </details>
 
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/pratimaprasad17/aurora-forecast-map" title="Aurora Tracker"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pratimaprasad17&repo=aurora-forecast-map&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/pratimaprasad17/netflix_data_analysis" title=Netflix Data Analysis"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pratimaprasad17&repo=netflix_data_analysis&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/pratimaprasad17/EDA_Excel_CitiBikeNY" title="Exploratory Data Analysis CitiBike NY"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pratimaprasad17&repo=EDA_Excel_CitiBikeNY&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/pratimaprasad17/LeetCode" title="Leetcode"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pratimaprasad17&repo=LeetCode&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/pratimaprasad17/powerbi-dashboard-university-enrolment-analysis" title="Power BI Dashboard"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pratimaprasad17&repo=powerbi-dashboard-university-enrolment-analysis&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+<h4 align="center">
+  <a href="https://github.com/pratimaprasad17?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
+
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" height="40px">
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=pratimaprasad17.pratimaprasad17&logo=github&lcolor=cf00cf&color=00cf00)
