@@ -1,4 +1,3 @@
-![visitors](https://vbr.nathanchung.dev/badge?page_id=pratimaprasad17.pratimaprasad17&style=plastic&logo=github&lcolor=cf00cf&color=00cf00)
 ## Hi there 👋
 
 # 💫 About Me:
@@ -30,7 +29,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=pratimaprasad17&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pratimaprasad17&icon=0&color=0)](https://visitcount.itsvg.in)
+![visitors](https://vbr.nathanchung.dev/badge?page_id=pratimaprasad17.pratimaprasad17&style=plastic&logo=github&lcolor=cf00cf&color=00cf00)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
