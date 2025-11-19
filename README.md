@@ -87,6 +87,7 @@ Ask me about<br>SAP BI, Power BI (PL-300 certified), Alteryx, Apricot, data stor
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" height="40px">
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=pratimaprasad17.pratimaprasad17&style=plastic&logo=github&lcolor=cf00cf&color=00cf00)
+[![Profile last updated](https://img.shields.io/github/last-commit/pratimaprasad17/pratimaprasad17/master?label=Last%20updated&style=flat)](https://github.com/pratimaprasad17/pratimaprasad17/commits)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
