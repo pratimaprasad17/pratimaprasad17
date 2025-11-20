@@ -5,18 +5,16 @@
 <!-- <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif"> -->
 
 <div id="user-content-toc">
-  <ul align="center" style="list-style: none;">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+  <ul align="center">
+    <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Raising%20Hand.png" alt="Woman Raising Hand" width="40" height="40" />
     <summary>
-      <h1 align="center" style="list-style: none;">
-        <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.herokuapp.com/?center=true&size=30&color=ffffff&lines=Hello%2C+There+!!;This+is+Pratima+Prasad..;Nice+to+meet+you+!;">
-        </a>
-      </h1>
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com/?center=true&size=30&color=ffffff&lines=Hello%2C+There+!!;This+is+Pratima+Prasad..;Nice+to+meet+you+!;">
+      </a>
     </summary>
   </ul>
 </div>
-
 <!--
 <div id="user-content-toc">
   <ul align="center" style="list-style: none;">
@@ -26,7 +24,6 @@
   </ul>
 </div>
 -->
-
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"> -->
 
@@ -116,7 +113,9 @@ Ask me about<br>SAP BI, Power BI (PL-300 certified), Alteryx, Apricot, data stor
     </ul>
   </div>
   
-  ![](https://github-profile-trophy.vercel.app/?username=pratimaprasad17&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+  <!-- ![](https://github-profile-trophy.vercel.app/?username=pratimaprasad17&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
+
+  ![](https://github-trophies.vercel.app/?username=pratimaprasad17&theme=juicyfresh&margin-w=10&margin-h=5)
   
   <div id="user-content-toc">
     <ul align="left" style="list-style: none;">
@@ -139,11 +138,12 @@ Ask me about<br>SAP BI, Power BI (PL-300 certified), Alteryx, Apricot, data stor
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </details>
 
+<!--
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/pratimaprasad17/aurora-forecast-map" title="Aurora Tracker"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pratimaprasad17&repo=aurora-forecast-map&theme=react&border_color=F85D7F&border_radius=10&title_color=F85D7F&icon_color=F85D7F"></a>
-  <a align="right" href="https://github.com/pratimaprasad17/Geospatial-Hot-Spot-Analysis" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pratimaprasad17&repo=Geospatial-Hot-Spot-Analysis&theme=react&border_color=F85D7F&border_radius=10&title_color=F85D7F&icon_color=F85D7F"></a>
+  <a align="right" href="https://github.com/pratimaprasad17/Geospatial-Hot-Spot-Analysis" title="Geospatial Hot Spot Analysis"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pratimaprasad17&repo=Geospatial-Hot-Spot-Analysis&theme=react&border_color=F85D7F&border_radius=10&title_color=F85D7F&icon_color=F85D7F"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
@@ -152,10 +152,44 @@ Ask me about<br>SAP BI, Power BI (PL-300 certified), Alteryx, Apricot, data stor
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/pratimaprasad17/LeetCode" title="Leetcode"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pratimaprasad17&repo=LeetCode&theme=react&border_color=F85D7F&border_radius=10&title_color=F85D7F&icon_color=F85D7F"></a>
+  <a align="left" href="https://github.com/pratimaprasad17/Data-Visualization-Analytics-Dashboard" title="Data Visualization Analytics Dashboard"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pratimaprasad17&repo=Data-Visualization-Analytics-Dashboard&theme=react&border_color=F85D7F&border_radius=10&title_color=F85D7F&icon_color=F85D7F"></a>
   <a align="right" href="https://github.com/pratimaprasad17/powerbi-dashboard-university-enrolment-analysis" title="Power BI Dashboard"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pratimaprasad17&repo=powerbi-dashboard-university-enrolment-analysis&theme=react&border_color=F85D7F&border_radius=10&title_color=F85D7F&icon_color=F85D7F"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
+-->
+
+<h1> 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Juggling.png" alt="Woman Juggling" width="40" height="40" /> 
+  <!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" alt="Woman Technologist" width="40" height="40"/> -->
+  Repositories </h1>
+
+<p align="center">
+  <a href="https://github.com/pratimaprasad17/aurora-forecast-map">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pratimaprasad17&repo=aurora-forecast-map&theme=react&border_radius=10&title_color=F8D866&icon_color=ED8B00" width="48%"/>
+  </a>
+  <a href="https://github.com/pratimaprasad17/Geospatial-Hot-Spot-Analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pratimaprasad17&repo=Geospatial-Hot-Spot-Analysis&theme=react&border_radius=10&title_color=F8D866&icon_color=ED8B00" width="48%"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/pratimaprasad17/netflix_data_analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pratimaprasad17&repo=netflix_data_analysis&theme=react&border_radius=10&title_color=F8D866&icon_color=ED8B00" width="48%"/>
+  </a>
+  <a href="https://github.com/pratimaprasad17/powerbi-dashboard-university-enrolment-analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pratimaprasad17&repo=powerbi-dashboard-university-enrolment-analysis&theme=react&border_radius=10&title_color=F8D866&icon_color=ED8B00" width="48%"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/pratimaprasad17/Data-Visualization-Analytics-Dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pratimaprasad17&repo=Data-Visualization-Analytics-Dashboard&theme=react&border_radius=10&title_color=F8D866&icon_color=ED8B00"
+      width="48%"/>
+  </a>
+  <a href="https://github.com/pratimaprasad17/EDA_Excel_CitiBikeNY">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pratimaprasad17&repo=EDA_Excel_CitiBikeNY&theme=react&border_radius=10&title_color=F8D866&icon_color=ED8B00" width="48%"/>
+  </a>
+</p>
 
 <h4 align="center">
   <a href="https://github.com/pratimaprasad17?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
