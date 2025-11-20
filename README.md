@@ -139,7 +139,7 @@ Ask me about<br>SAP BI, Power BI (PL-300 certified), Alteryx, Apricot, data stor
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   <br><br>
 
-  <img alt="Pratima's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=pratimaprasad17&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+  <img alt="Pratima's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=pratimaprasad17&bg_color=1F222E&color=F8D866&line=ED8B00&point=ffffff&hide_border=true" />
   
   <!-- [![Pratima's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pratimaprasad17)](https://github.com/pratimaprasad17/github-readme-activity-graph&theme=dark) -->
   
