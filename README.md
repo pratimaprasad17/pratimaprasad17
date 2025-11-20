@@ -72,6 +72,20 @@ Ask me about<br>SAP BI, Power BI (PL-300 certified), Alteryx, Apricot, data stor
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Student%20Light%20Skin%20Tone.png" alt="Woman Student Light Skin Tone" width="40" height="40"/> Certificates
+I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have
+
+- [Microsoft Certified: Power BI Data Analyst](https://learn.microsoft.com/api/credentials/share/en-gb/PratimaPrasad-2312/50FDB54FD7EA7611?sharingId)
+- [Apricot Certified Admin](https://www.credly.com/badges/b2d9c0f2-7e28-440d-a171-41caf6ddbe52/linked_in_profile)
+- [Alteryx Designer Core Certified](https://github.com/pratimaprasad17/pratimaprasad17/blob/main/Alteryx-Data%20Praparation.pdf)
+- [Introduction to Alteryx](https://www.datacamp.com/completed/statement-of-accomplishment/course/9bca7936586a082be1ca2dcb03be200d05f06dde)
+- [Data Preparation in Alteryx](https://www.datacamp.com/completed/statement-of-accomplishment/course/394716070bada2b8f6584580a72d2c9011804979)
+- [Data Modelling in Power BI](https://www.coursera.org/account/accomplishments/verify/JLHZZMAF3IAY)
+- [Extract, Transform & Load data in Power BI](https://www.coursera.org/account/accomplishments/verify/TIAV06K4TLF8)
+- [Preparing Data for Analysis with Excel](https://www.coursera.org/account/accomplishments/verify/1T1VDDTX8HAJ)
+- [AI Ethics at SAP](https://open.sap.com/verify/xopob-popec-tataf-vukec-nalyg)
+- [Generative AI at SAP](https://open.sap.com/verify/xunid-kovis-gopun-lifok-byrop)
+
 <h1> 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Juggling.png" alt="Woman Juggling" width="40" height="40" /> 
   <!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" alt="Woman Technologist" width="40" height="40"/> -->
